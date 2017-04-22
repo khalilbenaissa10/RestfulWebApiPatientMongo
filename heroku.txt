@@ -1,0 +1,3 @@
+mongodb://khalil:khalil22307246@ds111461.mlab.com:11461/patientdb
+https://immense-temple-80995.herokuapp.com/patients
+https://immense-temple-80995.herokuapp.com/enregistrements
